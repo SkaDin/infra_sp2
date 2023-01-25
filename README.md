@@ -7,7 +7,9 @@
 ### Как запустить проект:
 ##### Все описанное ниже относится к ОС Linux. Клонируем репозиторий и переходим в него:
 
+```
 git clone git@github.com:SkaDin/infra_sp2.git
+```
 ```
 cd infra_sp2
 cd api_yamdb
