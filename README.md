@@ -66,5 +66,9 @@ POSTGRES_PASSWORD=postgres
 DB_HOST=db
 DB_PORT=5432
 ```
+##### Автор проекта: 
+```
+SkaDin(Сушков Денис)
+```
 ##### Документация API YaMDb
 ```Документация доступна по эндпойнту: http://localhost/redoc/ ```
